@@ -1,17 +1,17 @@
 # 21_deep-learning-challenge
 
 # Deliverable(s)
-[Report]
+[Report](https://github.com/wrighang/21_deep-learning-challenge/blob/main/neural_report.md)
 
-[alphabet_soup_charity.ipynb]
-[AlphabetSoupCharity.h5]
+[alphabet_soup_charity.ipynb](https://github.com/wrighang/21_deep-learning-challenge/blob/main/alphabet_soup_charity.ipynb) ,
+[AlphabetSoupCharity.h5](https://github.com/wrighang/21_deep-learning-challenge/blob/main/AlphabetSoupCharity.h5)<br/>
 
-[alphabet_soup_charity_optimization_1.ipynb]
-[AlphabetSoupCharity_Optimization_1.h5]
-[alphabet_soup_charity_optimization_2.ipynb]
-[AlphabetSoupCharity_Optimization_2.h5]
-[alphabet_soup_charity_optimization_3.ipynb]
-[AlphabetSoupCharity_Optimization_3.h5]
+[alphabet_soup_charity_optimization_1.ipynb](https://github.com/wrighang/21_deep-learning-challenge/blob/main/alphabet_soup_charity_optimization_1.ipynb) ,
+[AlphabetSoupCharity_Optimization_1.h5](https://github.com/wrighang/21_deep-learning-challenge/blob/main/AlphabetSoupCharity_Optimization_1.h5)<br/>
+[alphabet_soup_charity_optimization_2.ipynb](https://github.com/wrighang/21_deep-learning-challenge/blob/main/alphabet_soup_charity_optimization_2.ipynb) , 
+[AlphabetSoupCharity_Optimization_2.h5](https://github.com/wrighang/21_deep-learning-challenge/blob/main/AlphabetSoupCharity_Optimization_2.h5)<br/>
+[alphabet_soup_charity_optimization_3.ipynb](https://github.com/wrighang/21_deep-learning-challenge/blob/main/alphabet_soup_charity_optimization_3.ipynb) , 
+[AlphabetSoupCharity_Optimization_3.h5](https://github.com/wrighang/21_deep-learning-challenge/blob/main/AlphabetSoupCharity_Optimization_3.h5)
 
 
 ## Background
